@@ -8,10 +8,10 @@ It runs as a transparent always-on-top window and does not modify or inject into
 Download
 
 Latest release:
-https://github.com/YOUR_USERNAME/IroncoreOverlay/releases/latest
+https://github.com/microphione/IroncoreOverlay/releases/latest
 
 All releases:
-https://github.com/YOUR_USERNAME/IroncoreOverlay/releases
+https://github.com/microphione/IroncoreOverlay/releases
 
 Installation
 ```
